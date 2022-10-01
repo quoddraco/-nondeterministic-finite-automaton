@@ -1,0 +1,6 @@
+{"table": [
+  {"triggers": "b","source": "0","dest": "1","final": "f"},
+  {"triggers": ["a","b"],"source": "1","dest": "2","final": "f"},
+  {"triggers": ["a","b"],"source": "0","dest": "0","final": "f"},
+  {"triggers": ["a","b"],"source": "2","dest": "3","final": "t"}
+]}
